@@ -2,8 +2,8 @@
 <h3 align="center">Desenvolvedor FrontEnd | HTML&CSS | JavaScript | TypeScript</h3>
 
 <p>##Sobre mim: Atualmente Finalizando o Curso Tecnico de Desenvolvimento de Sistemas na Instituição do Senai e planejo iniciar os meus estudos em Engenharia de Software no ano de 2024<p>
-<div>
-<a href="https://github.com/seu-usuário-aqui">
+<div align="center">
+<a href="https://github.com/devdslima">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdslima&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <h3 align="left">Linguagens e ferramentas que estou aprendendo e possuo conhecimento:</h3>
