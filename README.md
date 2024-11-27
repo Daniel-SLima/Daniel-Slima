@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Meu nome é Daniel Santana Lima</h1>
-<h3 align="center">Desenvolvedor FrontEnd | HTML&CSS | JavaScript | TypeScript</h3>
+<h3 align="center">Desenvolvedor 
 
 <p>##Sobre mim: Atualmente sou formado no Curso Tecnico de Desenvolvimento de Sistemas e estou cursando Analise e Desenvolvimento de Sistema no IFBA<p>
 <div align="center">
