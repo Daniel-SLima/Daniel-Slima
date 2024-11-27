@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Meu nome é Daniel Santana Lima</h1>
 <h3 align="center">Desenvolvedor FrontEnd | HTML&CSS | JavaScript | TypeScript</h3>
 
-<p>##Sobre mim: Atualmente sou formado no Curso Tecnico de Desenvolvimento de Sistemas e estou cursando Bacharelado em Engenharia de Software<p>
+<p>##Sobre mim: Atualmente sou formado no Curso Tecnico de Desenvolvimento de Sistemas e estou cursando Analise e Desenvolvimento de Sistema no IFBA<p>
 <div align="center">
 <a href="https://github.com/devdslima">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Slima&layout=compact&langs_count=7&theme=dracula"/>
