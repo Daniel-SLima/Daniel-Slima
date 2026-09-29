@@ -1,18 +1,61 @@
-<h1 align="center">Olá 👋, Meu nome é Daniel Santana Lima</h1>
-<h3 align="center">QA Testador Manual & Desenvolvedor 
-
-<p>##Sobre mim: Atualmente sou formado no Curso Tecnico de Desenvolvimento de Sistemas e estou cursando Analise e Desenvolvimento de Sistema no Instituto Federal Da Bahia<p>
 <div align="center">
-<a href="https://github.com/devdslima">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Slima&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<h3 align="left">Linguagens e ferramentas que estou estudando e possuo conhecimento:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-## Contatos:
+# Daniel Lima
 
-<div>
-<a href = "mailto:dan13setembro@outlook.com"><img loading="lazy" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/devdaniellima/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+### Software QA • Testes Manuais e Automação • Python • APIs • SQL
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-daniellimaqa-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniellimaqa/)
+[![Email](https://img.shields.io/badge/Email-Contato-333333?style=flat&logo=microsoftoutlook&logoColor=white)](mailto:dan13setembro@outlook.com)
+
 </div>
 
+## Sobre mim
+
+Atuo com **Quality Assurance** em sistemas ERP e aplicações web, trabalhando com análise de cenários, testes funcionais e exploratórios, regressão, retestes, documentação de evidências e reporte de bugs.
+
+Também desenvolvo automações e projetos próprios, unindo **qualidade de software, desenvolvimento e visão de produto**. Tenho formação técnica em Desenvolvimento de Sistemas e atualmente curso **Análise e Desenvolvimento de Sistemas no IFBA**.
+
+## Qualidade e desenvolvimento
+
+**QA & Testes**
+- Testes funcionais, exploratórios, regressão e retestes
+- Planejamento e documentação de cenários de teste
+- Testes de API e validações com SQL
+- Gherkin e documentação de evidências
+- Playwright para automação de testes
+
+**Desenvolvimento & Automação**
+- Python
+- JavaScript / TypeScript
+- FastAPI
+- Git e GitHub
+- GitHub Actions
+- Docker
+- Supabase
+
+## Projetos em destaque
+
+| Projeto | O que demonstra | Tecnologias |
+|---|---|---|
+| [**RagTest**](https://github.com/Daniel-SLima/RagTest) | TCC com módulo conversacional RAG, recuperação híbrida, avaliação, testes e CI | Python, FastAPI, Qdrant, Docker, GitHub Actions |
+| [**MoConverteAqui**](https://github.com/Daniel-SLima/MoConverteAqui) | Aplicativo desktop offline para organizar, converter e comprimir imagens e PDFs | Python, Windows, testes automatizados |
+| [**OrganizaBot**](https://github.com/Daniel-SLima/OrganizaBot) | Aplicação web local para pré-visualizar e organizar arquivos com segurança operacional | Python, Flask, Pytest |
+| [**GeradorDeConteudo**](https://github.com/Daniel-SLima/GeradorDeConteudo) | Automação de geração e publicação de conteúdo integrando múltiplas APIs | Python, APIs, automação |
+
+### Projeto em produção
+
+Além dos projetos públicos, desenvolvo e mantenho uma solução **SaaS de geração de orçamentos**, utilizada em produção, envolvendo frontend web, banco de dados, geração de documentos e evolução contínua a partir de uso real.
+
+## Formação
+
+- **Tecnólogo em Análise e Desenvolvimento de Sistemas** — IFBA *(em andamento)*
+- **Técnico em Desenvolvimento de Sistemas** — SENAI
+
+## Contato
+
+- LinkedIn: [linkedin.com/in/daniellimaqa](https://www.linkedin.com/in/daniellimaqa/)
+- E-mail: [dan13setembro@outlook.com](mailto:dan13setembro@outlook.com)
+
+---
+
+<sub>Perfil focado em QA, automação, desenvolvimento de software e projetos aplicados.</sub>
