@@ -27,7 +27,8 @@ Também desenvolvo automações e projetos próprios, unindo **qualidade de soft
 **Desenvolvimento & Automação**
 - Python
 - JavaScript / TypeScript
-- FastAPI
+- Kotlin
+- FastAPI e Flask
 - Git e GitHub
 - GitHub Actions
 - Docker
@@ -35,16 +36,18 @@ Também desenvolvo automações e projetos próprios, unindo **qualidade de soft
 
 ## Projetos em destaque
 
-| Projeto | O que demonstra | Tecnologias |
+| Projeto | Destaque | Tecnologias |
 |---|---|---|
-| [**RagTest**](https://github.com/Daniel-SLima/RagTest) | TCC com módulo conversacional RAG, recuperação híbrida, avaliação, testes e CI | Python, FastAPI, Qdrant, Docker, GitHub Actions |
-| [**MoConverteAqui**](https://github.com/Daniel-SLima/MoConverteAqui) | Aplicativo desktop offline para organizar, converter e comprimir imagens e PDFs | Python, Windows, testes automatizados |
-| [**OrganizaBot**](https://github.com/Daniel-SLima/OrganizaBot) | Aplicação web local para pré-visualizar e organizar arquivos com segurança operacional | Python, Flask, Pytest |
-| [**GeradorDeConteudo**](https://github.com/Daniel-SLima/GeradorDeConteudo) | Automação de geração e publicação de conteúdo integrando múltiplas APIs | Python, APIs, automação |
+| [**RagTest**](https://github.com/Daniel-SLima/RagTest) | TCC com módulo RAG, retrieval híbrido, grounding, avaliação, testes e CI | Python, FastAPI, Qdrant, Docker, React Native |
+| [**Vira Finanças**](https://github.com/Daniel-SLima/Vira_Financas) | Aplicativo Android offline de finanças pessoais com planejamento, backup, segurança e CI | Kotlin, Android, SQLite, Gradle, GitHub Actions |
+| [**OrçaDemo**](https://github.com/Daniel-SLima/gerador_orcamentos_demo) | Demo pública e segura de um sistema real de orçamentos e produção | Next.js, React, TypeScript, Tailwind CSS |
+| [**OrganizaBot**](https://github.com/Daniel-SLima/OrganizaBot) | Aplicação local para organizar arquivos com prévia, confirmação e testes automatizados | Python, Flask, Pytest |
 
-### Projeto em produção
+### Produto em produção
 
-Além dos projetos públicos, desenvolvo e mantenho uma solução **SaaS de geração de orçamentos**, utilizada em produção, envolvendo frontend web, banco de dados, geração de documentos e evolução contínua a partir de uso real.
+O **OrçaDemo** é a versão pública para portfólio de uma solução de geração de orçamentos que desenvolvo e mantenho em ambiente real. A demonstração remove dados e integrações privadas, mas preserva os principais fluxos do produto.
+
+[**Acessar demonstração online →**](https://gerador-orcamentos-demo.vercel.app)
 
 ## Formação
 
